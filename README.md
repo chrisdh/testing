@@ -1,4 +1,6 @@
 testing
 =======
 
-making a new repo
+making a new repo, 
+and trying to understand github
+
